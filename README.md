@@ -1,10 +1,6 @@
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:1A535C,100:4ECDC4&height=220&section=header&text=Jorge%20F.%20Beltran&fontColor=E6F1FF&fontSize=42&fontAlignY=35&desc=Computational%20Biologist%20|%20Bioinformatics%20|%20AI%20for%20Drug%20Discovery&descSize=16&descAlignY=55&descColor=8B949E&animation=fadeIn">
-    <source media="(prefers-color-scheme: light)" srcset="https://capsule-render.vercel.app/api?type=waving&color=0:E8F4F8,50:4ECDC4,100:1A535C&height=220&section=header&text=Jorge%20F.%20Beltran&fontColor=0D1117&fontSize=42&fontAlignY=35&desc=Computational%20Biologist%20|%20Bioinformatics%20|%20AI%20for%20Drug%20Discovery&descSize=16&descAlignY=55&descColor=586069&animation=fadeIn">
-      <img alt="Header" src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:1A535C,100:4ECDC4&height=220&section=header&text=Jorge%20F.%20Beltran&fontColor=E6F1FF&fontSize=42&fontAlignY=35&desc=Computational%20Biologist%20|%20Bioinformatics%20|%20AI%20for%20Drug%20Discovery&descSize=16&descAlignY=55&descColor=8B949E&animation=fadeIn" width="100%">
-</picture>picture>
-
 <div align="center">
+
+![Header](https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:1A535C,100:4ECDC4&height=220&section=header&text=Jorge%20F.%20Beltran&fontColor=E6F1FF&fontSize=42&fontAlignY=35&desc=Computational%20Biologist%20|%20Bioinformatics%20|%20AI%20for%20Drug%20Discovery&descSize=16&descAlignY=55&descColor=8B949E&animation=fadeIn)
 
 [![Website](https://img.shields.io/badge/BioChemIntelli-biochemintelli.com-00C7B7?style=for-the-badge&logoColor=white)](https://www.biochemintelli.com/)
 [![Google Scholar](https://img.shields.io/badge/Google_Scholar-Publications-4285F4?style=for-the-badge)](https://scholar.google.com/citations?user=YOUR_ID)
@@ -19,7 +15,7 @@
 Senior Scientist specializing in **computational biology**, **bioinformatics**, and **AI-driven drug discovery**. I develop open-source tools and reproducible pipelines that bridge the gap between raw biological data and actionable scientific insights.
 
 - Research Focus: Proteomics, systems biology, toxicity prediction, viral oncology
-- - Platform: Creator of [BioChemIntelli](https://www.biochemintelli.com/) - AI-powered bioinformatics tools
+- - Platform: Creator of BioChemIntelli - AI-powered bioinformatics tools
   - - Location: Chile
    
     - ---
@@ -105,11 +101,67 @@ Senior Scientist specializing in **computational biology**, **bioinformatics**, 
     [![BioChemIntelli](https://img.shields.io/badge/Explore-BioChemIntelli.com-4ECDC4?style=for-the-badge)](https://www.biochemintelli.com/)
  
     </div>
- 
-    <picture>
-        <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=waving&color=0:4ECDC4,50:1A535C,100:0D1117&height=100&section=footer">
-        <source media="(prefers-color-scheme: light)" srcset="https://capsule-render.vercel.app/api?type=waving&color=0:1A535C,50:4ECDC4,100:E8F4F8&height=100&section=footer">
-        <img alt="Footer" src="https://capsule-render.vercel.app/api?type=waving&color=0:4ECDC4,50:1A535C,100:0D1117&height=100&section=footer" width="100%">
-    </pic
+    
       </tr>
-    </table>
+    </
+    ### Featured Projects
+
+    <table>
+      <tr>
+        <td width="50%">
+ 
+          **[AIDApy](https://github.com/jfbldevs/AIDApy)**
+    Computation of 544 physicochemical and biochemical properties from the AAindex database.
+ 
+    ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
+ 
+    </td>
+    <td width="50%">
+ 
+      **[MultiToxPred](https://github.com/jfbldevs/MultiToxPred)**
+    Multi-label toxicity prediction using machine learning.
+ 
+    ![Jupyter](https://img.shields.io/badge/-Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white)
+ 
+    </td>
+    </td>tr>
+    </td>table>
+ 
+    ---
+ 
+    ### GitHub Stats
+ 
+    <div align="center">
+ 
+      <img src="https://github-readme-stats.vercel.app/api?username=jfbldevs&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=4ECDC4&icon_color=4ECDC4&text_color=C9D1D9&ring_color=4ECDC4" height="170" alt="GitHub Stats"/>
+      &nbsp;&nbsp;
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jfbldevs&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=4ECDC4&text_color=C9D1D9&langs_count=8" height="170" alt="Top Languages"/>
+ 
+    </div>
+ 
+    ---
+ 
+    ### Research Areas
+ 
+    ```text
+    Computational Biology     ====================---   85%
+    Toxicity Prediction       ==================-----   75%
+    Viral Oncology            ================-------   65%
+    Systems Biology           ==============---------   60%
+    AI / Drug Discovery       ====================---   80%
+    ```
+ 
+    ---
+ 
+    <div align="center">
+ 
+      *"Advancing science through intelligent data analysis"*
+ 
+    <br>
+ 
+    [![BioChemIntelli](https://img.shields.io/badge/Explore-BioChemIntelli.com-4ECDC4?style=for-the-badge)](https://www.biochemintelli.com/)
+ 
+    </div>
+    
+      </tr>
+    </

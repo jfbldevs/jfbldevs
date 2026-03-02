@@ -62,7 +62,6 @@ Computation of 544 physicochemical and biochemical properties from the AAindex d
 Multi-label toxicity prediction using machine learning.
 
 ![Jupyter](https://img.shields.io/badge/-Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white)
-![Stars](https://img.shields.io/github/stars/jfbldevs/MultiToxPred?style=flat-square&color=yellow)
 
 </td>
 </tr>
@@ -107,14 +106,6 @@ Cancer dependency prediction using reverse-phase protein array data.
 ---
 
 ### 📊 GitHub Stats
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=jfbldevs&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=4ECDC4&icon_color=4ECDC4&text_color=C9D1D9&ring_color=4ECDC4" height="170" alt="GitHub Stats"/>
-&nbsp;&nbsp;
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jfbldevs&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=4ECDC4&text_color=C9D1D9&langs_count=8" height="170" alt="Top Languages"/>
-
-</div>
 
 <div align="center">
 

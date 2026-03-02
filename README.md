@@ -117,7 +117,7 @@ Cancer dependency prediction using reverse-phase protein array data.
 
 <div align="center">
 
-<img src="https://github-readme-streak-stats.herokuapp.com?user=jfbldevs&theme=tokyonight&hide_border=true&background=00000000&ring=4ECDC4&fire=FF6B6B&currStreakLabel=4ECDC4&sideLabels=C9D1D9&dates=8B949E" alt="GitHub Streak"/>
+<img src="https://github-readme-streak-stats.herokuapp.com?user=jfbldevs&hide_border=true&background=00000000&ring=4ECDC4&fire=FF6B6B&currStreakLabel=1A535C&sideLabels=24292F&currStreakNum=1A535C&sideNums=1A535C&dates=586069&stroke=D0D7DE" alt="GitHub Streak"/>
 
 </div>
 

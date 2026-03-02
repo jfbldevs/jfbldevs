@@ -8,7 +8,7 @@
 
 [![Website](https://img.shields.io/badge/🌐_BioChemIntelli-biochemintelli.com-00C7B7?style=for-the-badge&logoColor=white)](https://www.biochemintelli.com/)
 [![Google Scholar](https://img.shields.io/badge/📚_Google_Scholar-Publications-4285F4?style=for-the-badge)](https://scholar.google.com/citations?user=blPKcQEAAAAJ&hl=es)
-[![Email](https://img.shields.io/badge/📧_Contact-Email-EA4335?style=for-the-badge)](mailto:contact@biochemintelli.com)
+[![Email](https://img.shields.io/badge/📧_Contact-Email-EA4335?style=for-the-badge)](mailto:beltran.lissabet.jf@gmail.com)
 
 </div>
 

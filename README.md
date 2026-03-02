@@ -6,25 +6,25 @@
 
 <div align="center">
 
-[![Website](https://img.shields.io/badge/🌐_BioChemIntelli-biochemintelli.com-00C7B7?style=for-the-badge&logoColor=white)](https://www.biochemintelli.com/)
-[![Google Scholar](https://img.shields.io/badge/📚_Google_Scholar-Publications-4285F4?style=for-the-badge)](https://scholar.google.com/citations?user=blPKcQEAAAAJ&hl=es)
-[![Email](https://img.shields.io/badge/📧_Email-beltran.lissabet.jf-EA4335?style=for-the-badge)](mailto:beltran.lissabet.jf@gmail.com)
+[![Website](https://img.shields.io/badge/BioChemIntelli-biochemintelli.com-00C7B7?style=for-the-badge&logo=googlechrome&logoColor=white)](https://www.biochemintelli.com/)
+[![Google Scholar](https://img.shields.io/badge/Google_Scholar-Publications-4285F4?style=for-the-badge&logo=googlescholar&logoColor=white)](https://scholar.google.com/citations?user=blPKcQEAAAAJ&hl=es)
+[![Email](https://img.shields.io/badge/Email-beltran.lissabet.jf-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:beltran.lissabet.jf@gmail.com)
 
 </div>
 
 ---
 
-### 🧬 About Me
+### About Me
 
 Senior Scientist specializing in **computational biology**, **bioinformatics**, and **AI-driven drug discovery**. I develop open-source tools and reproducible pipelines that bridge the gap between raw biological data and actionable scientific insights.
 
-- 🔬 **Research Focus:** Proteomics, systems biology, toxicity prediction, viral oncology
-- 🧪 **Platform:** Creator of [BioChemIntelli](https://www.biochemintelli.com/) — AI-powered bioinformatics tools
-- 📍 **Location:** Chile
+- **Research Focus:** Proteomics, systems biology, toxicity prediction, viral oncology
+- **Platform:** Creator of [BioChemIntelli](https://www.biochemintelli.com/) — AI-powered bioinformatics tools
+- **Location:** Chile
 
 ---
 
-### 🛠️ Tech Stack
+### Tech Stack
 
 <div align="center">
 
@@ -43,13 +43,13 @@ Senior Scientist specializing in **computational biology**, **bioinformatics**, 
 
 ---
 
-### 🚀 Featured Projects
+### Featured Projects
 
 <table>
 <tr>
 <td width="50%">
 
-**🧬 [AIDApy](https://github.com/jfbldevs/AIDApy)**
+**[AIDApy](https://github.com/jfbldevs/AIDApy)**
 Computation of 544 physicochemical and biochemical properties from the AAindex database.
 
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
@@ -58,7 +58,7 @@ Computation of 544 physicochemical and biochemical properties from the AAindex d
 </td>
 <td width="50%">
 
-**☠️ [MultiToxPred](https://github.com/jfbldevs/MultiToxPred)**
+**[MultiToxPred](https://github.com/jfbldevs/MultiToxPred)**
 Multi-label toxicity prediction using machine learning.
 
 ![Jupyter](https://img.shields.io/badge/-Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white)
@@ -68,7 +68,7 @@ Multi-label toxicity prediction using machine learning.
 <tr>
 <td width="50%">
 
-**🦠 [VirUsHound-II](https://github.com/jfbldevs/virushound-II)**
+**[VirUsHound-II](https://github.com/jfbldevs/virushound-II)**
 Advanced virus analysis and classification tool (v2).
 
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
@@ -76,7 +76,7 @@ Advanced virus analysis and classification tool (v2).
 </td>
 <td width="50%">
 
-**🎯 [VirOncoTarget](https://github.com/jfbldevs/vironcotarget)**
+**[VirOncoTarget](https://github.com/jfbldevs/vironcotarget)**
 Identification and analysis of viral oncology targets.
 
 ![Jupyter](https://img.shields.io/badge/-Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white)
@@ -86,7 +86,7 @@ Identification and analysis of viral oncology targets.
 <tr>
 <td width="50%">
 
-**🔬 [Daphnia Proteome Stress](https://github.com/jfbldevs/daphnia-pulex-proteome-stress)**
+**[Daphnia Proteome Stress](https://github.com/jfbldevs/daphnia-pulex-proteome-stress)**
 Integrative systems biology pipeline for *D. pulex* proteomics under anthropogenic stress.
 
 ![R](https://img.shields.io/badge/-R-276DC3?style=flat-square&logo=r&logoColor=white)
@@ -94,7 +94,7 @@ Integrative systems biology pipeline for *D. pulex* proteomics under anthropogen
 </td>
 <td width="50%">
 
-**🧫 [RPPA Cancer Dependency](https://github.com/jfbldevs/rppa-cancer-dependency-prediction)**
+**[RPPA Cancer Dependency](https://github.com/jfbldevs/rppa-cancer-dependency-prediction)**
 Cancer dependency prediction using reverse-phase protein array data.
 
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
@@ -105,7 +105,7 @@ Cancer dependency prediction using reverse-phase protein array data.
 
 ---
 
-### 📊 GitHub Stats
+### GitHub Stats
 
 <div align="center">
 
@@ -115,7 +115,7 @@ Cancer dependency prediction using reverse-phase protein array data.
 
 ---
 
-### 🔬 Research Areas
+### Research Areas
 
 ```text
 Computational Biology     ████████████████████░░░   85%
@@ -133,7 +133,7 @@ AI / Drug Discovery       ██████████████████
 
 <br>
 
-[![BioChemIntelli](https://img.shields.io/badge/Explore-BioChemIntelli.com-4ECDC4?style=for-the-badge)](https://www.biochemintelli.com/)
+[![BioChemIntelli](https://img.shields.io/badge/Explore-BioChemIntelli.com-4ECDC4?style=for-the-badge&logo=googlechrome&logoColor=white)](https://www.biochemintelli.com/)
 
 </div>
 

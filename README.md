@@ -1,9 +1,14 @@
-<div align="center">
-  <img src="assets/header.png" alt="Embedding Space Visualization" width="100%"/>
-
-  <h1>Jorge F. Beltrán</h1>
-  <h4>Computational Biologist | Bioinformatics | AI for Drug Discovery</h4>
-</div>
+```
+╔═══════════════════════════════════════════════════════════════════╗
+║                                                                   ║
+║   ╦╔═╗╦═╗╔═╗╔═╗  ╔═╗  ╔╗ ╔═╗╦ ╔╦╗╦═╗╔═╗╔╗╔                    ║
+║   ║║ ║╠╦╝║ ╦╠╣   ╠╣   ╠╩╗║╣ ║  ║ ╠╦╝╠═╣║║║                    ║
+║  ╚╝╚═╝╩╚═╚═╝╚═╝  ╚    ╚═╝╚═╝╩═╝╩ ╩╚═╩ ╩╝╚╝                    ║
+║                                                                   ║
+║   Computational Biologist | Bioinformatics | AI                   ║
+║                                                                   ║
+╚═══════════════════════════════════════════════════════════════════╝
+```
 
 <div align="center">
 

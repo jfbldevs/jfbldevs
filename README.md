@@ -39,110 +39,27 @@ Senior Scientist specializing in **computational biology**, **bioinformatics**, 
 
     ### Featured Projects
 
-    <table>
-      <tr>
-        <td width="50%">
- 
-          **[AIDApy](https://github.com/jfbldevs/AIDApy)**
-    Computation of 544 physicochemical and biochemical properties from the AAindex database.
- 
-    ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
- 
-    </td>
-    <td width="50%">
- 
-      **[MultiToxPred](https://github.com/jfbldevs/MultiToxPred)**
-    Multi-label toxicity prediction using machine learning.
- 
-    ![Jupyter](https://img.shields.io/badge/-Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white)
- 
-    </td>
-    </td>tr>
-    </td>table>
- 
-    ---
- 
-    ### GitHub Stats
- 
-    <div align="center">
- 
-      <img src="https://github-readme-stats.vercel.app/api?username=jfbldevs&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=4ECDC4&icon_color=4ECDC4&text_color=C9D1D9&ring_color=4ECDC4" height="170" alt="GitHub Stats"/>
-      &nbsp;&nbsp;
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jfbldevs&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=4ECDC4&text_color=C9D1D9&langs_count=8" height="170" alt="Top Languages"/>
- 
-    </div>
- 
-    <div align="center">
- 
-      <img src="https://github-readme-streak-stats.herokuapp.com?user=jfbldevs&theme=tokyonight&hide_border=true&background=0D1117&ring=4ECDC4&fire=FF6B6B&currStreakLabel=4ECDC4&sideLabels=C9D1D9&dates=8B949E" alt="GitHub Streak"/>
- 
-      </div>
- 
-      ---
- 
-    ### Research Areas
- 
-    ```text
-    Computational Biology     ====================---   85%
-    Toxicity Prediction       ==================-----   75%
-    Viral Oncology            ================-------   65%
-    Systems Biology           ==============---------   60%
-    AI / Drug Discovery       ====================---   80%
-    ```
- 
-    ---
- 
-    <div align="center">
- 
-      *"Advancing science through intelligent data analysis"*
- 
-    <br>
- 
-    [![BioChemIntelli](https://img.shields.io/badge/Explore-BioChemIntelli.com-4ECDC4?style=for-the-badge)](https://www.biochemintelli.com/)
- 
-    </div>
-    
-      </tr>
-    </
-    ### Featured Projects
+    | Project | Description |
+    | :--- | :--- |
+    | **[AIDApy](https://github.com/jfbldevs/AIDApy)** | Computation of 544 properties. |
+    | **[MultiToxPred](https://github.com/jfbldevs/MultiToxPred)** | Multi-label toxicity prediction. |
 
-    <table>
-      <tr>
-        <td width="50%">
- 
-          **[AIDApy](https://github.com/jfbldevs/AIDApy)**
-    Computation of 544 physicochemical and biochemical properties from the AAindex database.
- 
-    ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
- 
-    </td>
-    <td width="50%">
- 
-      **[MultiToxPred](https://github.com/jfbldevs/MultiToxPred)**
-    Multi-label toxicity prediction using machine learning.
- 
-    ![Jupyter](https://img.shields.io/badge/-Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white)
- 
-    </td>
-    </td>tr>
-    </td>table>
- 
     ---
- 
+
     ### GitHub Stats
- 
+
     <div align="center">
- 
-      <img src="https://github-readme-stats.vercel.app/api?username=jfbldevs&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=4ECDC4&icon_color=4ECDC4&text_color=C9D1D9&ring_color=4ECDC4" height="170" alt="GitHub Stats"/>
-      &nbsp;&nbsp;
+
+    <img src="https://github-readme-stats.vercel.app/api?username=jfbldevs&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=4ECDC4&icon_color=4ECDC4&text_color=C9D1D9&ring_color=4ECDC4" height="170" alt="GitHub Stats"/>
+    &nbsp;&nbsp;
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jfbldevs&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=4ECDC4&text_color=C9D1D9&langs_count=8" height="170" alt="Top Languages"/>
- 
+
     </div>
- 
+
     ---
- 
+
     ### Research Areas
- 
+
     ```text
     Computational Biology     ====================---   85%
     Toxicity Prediction       ==================-----   75%
@@ -150,18 +67,15 @@ Senior Scientist specializing in **computational biology**, **bioinformatics**, 
     Systems Biology           ==============---------   60%
     AI / Drug Discovery       ====================---   80%
     ```
- 
+
     ---
- 
+
     <div align="center">
- 
-      *"Advancing science through intelligent data analysis"*
- 
+
+    *"Advancing science through intelligent data analysis"*
+
     <br>
- 
+
     [![BioChemIntelli](https://img.shields.io/badge/Explore-BioChemIntelli.com-4ECDC4?style=for-the-badge)](https://www.biochemintelli.com/)
- 
+
     </div>
-    
-      </tr>
-    </

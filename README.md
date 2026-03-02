@@ -1,7 +1,7 @@
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:1A535C,100:4ECDC4&height=220&section=header&text=Jorge%20F.%20Beltr%C3%A1n&fontColor=E6F1FF&fontSize=42&fontAlignY=35&desc=Computational%20Biologist%20%7C%20Bioinformatics%20%7C%20AI%20for%20Drug%20Discovery&descSize=16&descAlignY=55&descColor=8B949E&animation=fadeIn">
-  <source media="(prefers-color-scheme: light)" srcset="https://capsule-render.vercel.app/api?type=waving&color=0:E8F4F8,50:4ECDC4,100:1A535C&height=220&section=header&text=Jorge%20F.%20Beltr%C3%A1n&fontColor=0D1117&fontSize=42&fontAlignY=35&desc=Computational%20Biologist%20%7C%20Bioinformatics%20%7C%20AI%20for%20Drug%20Discovery&descSize=16&descAlignY=55&descColor=586069&animation=fadeIn">
-  <img alt="Header" src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:1A535C,100:4ECDC4&height=220&section=header&text=Jorge%20F.%20Beltr%C3%A1n&fontColor=E6F1FF&fontSize=42&fontAlignY=35&desc=Computational%20Biologist%20%7C%20Bioinformatics%20%7C%20AI%20for%20Drug%20Discovery&descSize=16&descAlignY=55&descColor=8B949E&animation=fadeIn" width="100%">
+  <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=venom&color=0:0D1117,50:1A535C,100:4ECDC4&height=220&section=header&text=Jorge%20F.%20Beltr%C3%A1n&fontColor=E6F1FF&fontSize=42&fontAlignY=35&desc=Computational%20Biologist%20%7C%20Bioinformatics%20%7C%20AI%20for%20Drug%20Discovery&descSize=16&descAlignY=55&descColor=8B949E&animation=fadeIn">
+  <source media="(prefers-color-scheme: light)" srcset="https://capsule-render.vercel.app/api?type=venom&color=0:E8F4F8,50:4ECDC4,100:1A535C&height=220&section=header&text=Jorge%20F.%20Beltr%C3%A1n&fontColor=0D1117&fontSize=42&fontAlignY=35&desc=Computational%20Biologist%20%7C%20Bioinformatics%20%7C%20AI%20for%20Drug%20Discovery&descSize=16&descAlignY=55&descColor=586069&animation=fadeIn">
+  <img alt="Header" src="https://capsule-render.vercel.app/api?type=venom&color=0:0D1117,50:1A535C,100:4ECDC4&height=220&section=header&text=Jorge%20F.%20Beltr%C3%A1n&fontColor=E6F1FF&fontSize=42&fontAlignY=35&desc=Computational%20Biologist%20%7C%20Bioinformatics%20%7C%20AI%20for%20Drug%20Discovery&descSize=16&descAlignY=55&descColor=8B949E&animation=fadeIn" width="100%">
 </picture>
 
 <div align="center">
@@ -138,7 +138,7 @@ AI / Drug Discovery       ██████████████████
 </div>
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=waving&color=0:4ECDC4,50:1A535C,100:0D1117&height=100&section=footer">
-  <source media="(prefers-color-scheme: light)" srcset="https://capsule-render.vercel.app/api?type=waving&color=0:1A535C,50:4ECDC4,100:E8F4F8&height=100&section=footer">
-  <img alt="Footer" src="https://capsule-render.vercel.app/api?type=waving&color=0:4ECDC4,50:1A535C,100:0D1117&height=100&section=footer" width="100%">
+  <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=venom&color=0:4ECDC4,50:1A535C,100:0D1117&height=100&section=footer">
+  <source media="(prefers-color-scheme: light)" srcset="https://capsule-render.vercel.app/api?type=venom&color=0:1A535C,50:4ECDC4,100:E8F4F8&height=100&section=footer">
+  <img alt="Footer" src="https://capsule-render.vercel.app/api?type=venom&color=0:4ECDC4,50:1A535C,100:0D1117&height=100&section=footer" width="100%">
 </picture>

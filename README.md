@@ -1,148 +1,158 @@
 <div align="center">
 <pre>
-╔═══════════════════════════════════════════════════════════════════╗
-║                                                                   ║
-║             ╦╔═╗╦═╗╔═╗╔═╗  ╔═╗   ╔╗ ╔═╗╦ ╔╦╗╦═╗╔═╗╔╗╔             ║
-║             ║║ ║╠╦╝║ ╦╠╣   ╠╣    ╠╩╗║╣ ║  ║ ╠╦╝╠═╣║║║             ║
-║            ╚╝╚═╝╩╚═╚═╝╚═╝  ╚  .  ╚═╝╚═╝╩═╝╩ ╩╚═╩ ╩╝╚╝             ║
-║                                                                   ║
-║           Computational Biologist | Bioinformatics | AI           ║
-║                                                                   ║
-╚═══════════════════════════════════════════════════════════════════╝
+┌─────────────────────────────────────────────────────────────────────────────────────────────────────┐
+│                                                                                                     │
+│    ███   ███   ████    ████  █████    █████        ████   █████  █      █████  ████    ███   █   █  │
+│      █  █   █  █   █  █      █        █            █   █  █      █        █    █   █  █   █  ██  █  │
+│      █  █   █  █   █  █      █        █            █   █  █      █        █    █   █  █   █  █ █ █  │
+│      █  █   █  ████   █ ███  ████     ████         ████   ████   █        █    ████   █████  █  ██  │
+│  █   █  █   █  ██     █   █  █        █            █   █  █      █        █    ██     █   █  █   █  │
+│  █   █  █   █  █ █    █   █  █        █            █   █  █      █        █    █ █    █   █  █   █  │
+│   ███    ███   █  █    ████  █████    █      █     ████   █████  █████    █    █  █   █   █  █   █  │
+│                                                                                                     │
+│                     [ COMPUTATIONAL BIOLOGY ] · [ BIOINFORMATICS ] · [ AI / ML ]                    │
+│                                                                                                     │
+│                    MODEL SCI.01 · BUILD BIOCHEMINTELLI · REGION CL · REV 2026.09                    │
+│                                                                                                     │
+└─────────────────────────────────────────────────────────────────────────────────────────────────────┘
 </pre>
 </div>
 
 <div align="center">
 
-[![Website](https://img.shields.io/badge/BioChemIntelli-biochemintelli.com-00C7B7?style=for-the-badge&logo=googlechrome&logoColor=white)](https://www.biochemintelli.com/)
-[![Google Scholar](https://img.shields.io/badge/Google_Scholar-Publications-4285F4?style=for-the-badge&logo=googlescholar&logoColor=white)](https://scholar.google.com/citations?user=blPKcQEAAAAJ&hl=es)
-[![Email](https://img.shields.io/badge/Email-beltran.lissabet.jf-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:beltran.lissabet.jf@gmail.com)
+[![BIOCHEMINTELLI](https://img.shields.io/badge/BIOCHEMINTELLI-biochemintelli.com-FF0000?style=for-the-badge&logo=googlechrome&logoColor=white&labelColor=000000)](https://www.biochemintelli.com/)
+[![GOOGLE SCHOLAR](https://img.shields.io/badge/GOOGLE_SCHOLAR-PUBLICATIONS-000000?style=for-the-badge&logo=googlescholar&logoColor=FF0000&labelColor=000000)](https://scholar.google.com/citations?user=blPKcQEAAAAJ&hl=es)
+[![EMAIL](https://img.shields.io/badge/EMAIL-CONTACT-000000?style=for-the-badge&logo=gmail&logoColor=FF0000&labelColor=000000)](mailto:beltran.lissabet.jf@gmail.com)
 
 </div>
 
----
+<img src="https://capsule-render.vercel.app/api?type=rect&color=FF0000&height=3&width=100%" width="100%">
 
-### About Me
+### `[ 01 ]` ABOUT
 
-Senior Scientist specializing in **computational biology**, **bioinformatics**, and **AI-driven drug discovery**. I develop open-source tools and reproducible pipelines that bridge the gap between raw biological data and actionable scientific insights.
+```
+> SENIOR SCIENTIST
+> FOCUS ..... proteomics · systems biology · toxicity prediction · viral oncology
+> BUILDS .... open-source pipelines that turn raw biological data into signal
+> PLATFORM .. biochemintelli — ai-driven bioinformatics tools
+> BASE ...... chile
+```
 
-- **Research Focus:** Proteomics, systems biology, toxicity prediction, viral oncology
-- **Platform:** Creator of [BioChemIntelli](https://www.biochemintelli.com/) — AI-powered bioinformatics tools
-- **Location:** Chile
+Computational biologist working at the interface of **structural biology**, **machine learning**, and **drug discovery** — reproducible pipelines over one-off scripts, open tools over black boxes.
 
----
+<img src="https://capsule-render.vercel.app/api?type=rect&color=1A1A1A&height=2&width=100%" width="100%">
 
-### Tech Stack
+### `[ 02 ]` STACK
 
 <div align="center">
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![R](https://img.shields.io/badge/R-276DC3?style=flat-square&logo=r&logoColor=white)
-![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white)
-![Django](https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white)
-![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
-![RDKit](https://img.shields.io/badge/RDKit-3776AB?style=flat-square&logoColor=white)
-![Bioconductor](https://img.shields.io/badge/Bioconductor-87B13F?style=flat-square&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+![Python](https://img.shields.io/badge/Python-000000?style=flat-square&logo=python&logoColor=FF0000)
+![R](https://img.shields.io/badge/R-000000?style=flat-square&logo=r&logoColor=FF0000)
+![Jupyter](https://img.shields.io/badge/Jupyter-000000?style=flat-square&logo=jupyter&logoColor=FF0000)
+![PyTorch](https://img.shields.io/badge/PyTorch-000000?style=flat-square&logo=pytorch&logoColor=FF0000)
+![scikit--learn](https://img.shields.io/badge/scikit--learn-000000?style=flat-square&logo=scikitlearn&logoColor=FF0000)
+![Django](https://img.shields.io/badge/Django-000000?style=flat-square&logo=django&logoColor=FF0000)
+![RDKit](https://img.shields.io/badge/RDKit-000000?style=flat-square&logoColor=FF0000)
+![Bioconductor](https://img.shields.io/badge/Bioconductor-000000?style=flat-square&logoColor=FF0000)
+![Docker](https://img.shields.io/badge/Docker-000000?style=flat-square&logo=docker&logoColor=FF0000)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-000000?style=flat-square&logo=postgresql&logoColor=FF0000)
 
 </div>
 
----
+<img src="https://capsule-render.vercel.app/api?type=rect&color=1A1A1A&height=2&width=100%" width="100%">
 
-### Featured Projects
+### `[ 03 ]` INDEX
 
 <table>
 <tr>
 <td width="50%">
 
-**[AIDApy](https://github.com/jfbldevs/AIDApy)**
+**`01` [AIDApy](https://github.com/jfbldevs/AIDApy)**
 Computation of 544 physicochemical and biochemical properties from the AAindex database.
 
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![Stars](https://img.shields.io/github/stars/jfbldevs/AIDApy?style=flat-square&color=yellow)
+![Python](https://img.shields.io/badge/-Python-000000?style=flat-square&logo=python&logoColor=FF0000)
+![Stars](https://img.shields.io/github/stars/jfbldevs/AIDApy?style=flat-square&label=STARS&color=000000&logoColor=FF0000)
 
 </td>
 <td width="50%">
 
-**[MultiToxPred](https://github.com/jfbldevs/MultiToxPred)**
+**`02` [MultiToxPred](https://github.com/jfbldevs/MultiToxPred)**
 Multi-label toxicity prediction using machine learning.
 
-![Jupyter](https://img.shields.io/badge/-Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white)
+![Jupyter](https://img.shields.io/badge/-Jupyter-000000?style=flat-square&logo=jupyter&logoColor=FF0000)
+![Stars](https://img.shields.io/github/stars/jfbldevs/MultiToxPred?style=flat-square&label=STARS&color=000000&logoColor=FF0000)
 
 </td>
 </tr>
 <tr>
 <td width="50%">
 
-**[VirUsHound-II](https://github.com/jfbldevs/virushound-II)**
+**`03` [HPV-E6-E7-Atlas](https://github.com/jfbldevs/HPV-E6-E7-Atlas)**
+Pan-genotype mutational tolerance atlas of HPV E6/E7 oncoproteins via the ESM-2 protein language model.
+
+![Python](https://img.shields.io/badge/-Python-000000?style=flat-square&logo=python&logoColor=FF0000)
+
+</td>
+<td width="50%">
+
+**`04` [VirUsHound-II](https://github.com/jfbldevs/virushound-II)**
 Advanced virus analysis and classification tool (v2).
 
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
-
-</td>
-<td width="50%">
-
-**[VirOncoTarget](https://github.com/jfbldevs/vironcotarget)**
-Identification and analysis of viral oncology targets.
-
-![Jupyter](https://img.shields.io/badge/-Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white)
+![Python](https://img.shields.io/badge/-Python-000000?style=flat-square&logo=python&logoColor=FF0000)
 
 </td>
 </tr>
 <tr>
 <td width="50%">
 
-**[Daphnia Proteome Stress](https://github.com/jfbldevs/daphnia-pulex-proteome-stress)**
-Integrative systems biology pipeline for *D. pulex* proteomics under anthropogenic stress.
+**`05` [Daphnia Proteome Stress](https://github.com/jfbldevs/daphnia-pulex-proteome-stress)**
+Integrative systems-biology pipeline for *D. pulex* proteomics under anthropogenic stress.
 
-![R](https://img.shields.io/badge/-R-276DC3?style=flat-square&logo=r&logoColor=white)
+![R](https://img.shields.io/badge/-R-000000?style=flat-square&logo=r&logoColor=FF0000)
 
 </td>
 <td width="50%">
 
-**[RPPA Cancer Dependency](https://github.com/jfbldevs/rppa-cancer-dependency-prediction)**
-Cancer dependency prediction using reverse-phase protein array data.
+**`06` [RPPA Cancer Dependency](https://github.com/jfbldevs/rppa-cancer-dependency-prediction)**
+Cancer dependency prediction from reverse-phase protein array data.
 
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Jupyter](https://img.shields.io/badge/-Jupyter-000000?style=flat-square&logo=jupyter&logoColor=FF0000)
 
 </td>
 </tr>
 </table>
 
----
+<img src="https://capsule-render.vercel.app/api?type=rect&color=1A1A1A&height=2&width=100%" width="100%">
 
-### GitHub Stats
+### `[ 04 ]` METRICS
 
 <div align="center">
 
-<img src="https://github-readme-streak-stats.herokuapp.com?user=jfbldevs&hide_border=true&background=00000000&ring=4ECDC4&fire=FF6B6B&currStreakLabel=1A535C&sideLabels=24292F&currStreakNum=1A535C&sideNums=1A535C&dates=586069&stroke=D0D7DE" alt="GitHub Streak"/>
+<img src="https://github-readme-stats.vercel.app/api?username=jfbldevs&show_icons=true&hide_border=true&bg_color=000000&title_color=FF0000&text_color=FFFFFF&icon_color=FF0000&border_color=FF0000&ring_color=FF0000" alt="GitHub Stats" height="165"/>
+<img src="https://github-readme-streak-stats.herokuapp.com?user=jfbldevs&hide_border=true&background=000000&ring=FF0000&fire=FF0000&currStreakLabel=FFFFFF&sideLabels=FFFFFF&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=8A8A8A&stroke=FF0000" alt="GitHub Streak" height="165"/>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=jfbldevs&bg_color=000000&color=FFFFFF&line=FF0000&point=FFFFFF&area=true&area_color=FF0000&hide_border=true" alt="Activity Graph" width="100%"/>
 
 </div>
 
----
+<img src="https://capsule-render.vercel.app/api?type=rect&color=1A1A1A&height=2&width=100%" width="100%">
 
-### Research Areas
+### `[ 05 ]` FOCUS
 
 ```text
-Computational Biology     ████████████████████░░░   85%
-Toxicity Prediction       ██████████████████░░░░░   75%
-Viral Oncology            ████████████████░░░░░░░   65%
-Systems Biology           ██████████████░░░░░░░░░   60%
-AI / Drug Discovery       ████████████████████░░░   80%
+COMPUTATIONAL BIOLOGY     ●●●●●●●●●●●●●●●●●●●●○○○○○   85%
+AI / DRUG DISCOVERY       ●●●●●●●●●●●●●●●●●●●●○○○○○   80%
+TOXICITY PREDICTION       ●●●●●●●●●●●●●●●●●○○○○○○○○   75%
+VIRAL ONCOLOGY            ●●●●●●●●●●●●●●●●○○○○○○○○○   65%
+SYSTEMS BIOLOGY           ●●●●●●●●●●●●●●○○○○○○○○○○○   60%
 ```
 
----
+<img src="https://capsule-render.vercel.app/api?type=rect&color=FF0000&height=3&width=100%" width="100%">
 
 <div align="center">
 
-*"Advancing science through intelligent data analysis"*
+<sub>ADVANCING SCIENCE THROUGH INTELLIGENT DATA ANALYSIS</sub>
 
-<br>
-
-[![BioChemIntelli](https://img.shields.io/badge/Explore-BioChemIntelli.com-4ECDC4?style=for-the-badge&logo=googlechrome&logoColor=white)](https://www.biochemintelli.com/)
+[![EXPLORE BIOCHEMINTELLI](https://img.shields.io/badge/EXPLORE-BIOCHEMINTELLI.COM-FF0000?style=for-the-badge&logo=googlechrome&logoColor=white&labelColor=000000)](https://www.biochemintelli.com/)
 
 </div>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:4ECDC4,50:1A535C,100:0D1117&height=100&section=footer" width="100%">

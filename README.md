@@ -1,20 +1,21 @@
-### Jorge F. Beltrán
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/banner-dark.svg">
+  <img alt="Jorge F. Beltrán — Senior Scientist · Bioinformatics · Software · AI" src="assets/banner-light.svg" width="100%">
+</picture>
 
-Computational biologist · Senior Scientist
+[`WEB ↗`](https://www.biochemintelli.com/) &nbsp; [`SCHOLAR ↗`](https://scholar.google.com/citations?user=blPKcQEAAAAJ&hl=es) &nbsp; [`EMAIL ↗`](mailto:beltran.lissabet.jf@gmail.com)
 
-[biochemintelli.com](https://www.biochemintelli.com/) · [Google Scholar](https://scholar.google.com/citations?user=blPKcQEAAAAJ&hl=es) · [Email](mailto:beltran.lissabet.jf@gmail.com)
+I work across biology, software and artificial intelligence, building open,
+reproducible tools that turn raw data into results others can check.
 
----
+```text
+01  BIOINFORMATICS ........ sequence & protein analysis · proteomics · pipelines
+02  COMPUTATIONAL BIOLOGY . systems biology · toxicity prediction · viral oncology
+03  SOFTWARE DEVELOPMENT .. open-source scientific libraries · tested · documented
+04  ML & DEEP LEARNING .... predictive models · protein language models
+```
 
-I work where structural biology, machine learning and drug discovery meet,
-building open, reproducible tools that turn raw biological data into results
-others can check.
-
-- **Bioinformatics:** sequence and protein analysis, proteomics, reproducible data pipelines
-- **Computational Biology:** systems biology, toxicity prediction, viral oncology
-- **Software Development:** open-source scientific libraries and tools, tested and documented
-- **Machine Learning & Deep Learning:** predictive models, protein language models, structural bioinformatics
-
-### Tools
-
-Python · R · Rust · PyTorch · scikit-learn · RDKit · Bioconductor · Jupyter · Django · Docker · PostgreSQL
+```text
+TOOLS   python · r · rust · pytorch · scikit-learn · rdkit · bioconductor
+        jupyter · django · docker · postgresql
+```
